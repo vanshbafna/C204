@@ -1,2 +1,2 @@
-# C204
-C204
+# PRO-C204-SA1-Boilerplate
+boilerplate code for student activity
